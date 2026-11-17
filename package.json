@@ -1,9 +1,9 @@
 {
   "name": "nextjs",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "private": true,
   "scripts": {
-    "dev": "next-oom next dev --webpack",
+    "dev": "next dev --webpack",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
